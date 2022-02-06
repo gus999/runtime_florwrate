@@ -64,8 +64,8 @@
   left: 28%;
 }
 
-#velocity:focus .inputs {
-  display: none;
+#velocity:focus {
+  z-index:3;
 }
 
 .panel-group > div {
