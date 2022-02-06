@@ -24,16 +24,19 @@ main {
 }
 
 header {
-  display: flex;
+  /* display: flex; */
+
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 10px;
   margin-left: 3%;
   color: #034255;
 }
 
 h1 {
-  margin-bottom: 100px;
+  /* display: none; */
+  margin-bottom: 50px;
   text-align: center;
+  font-size: 1px;
 }
 
 .h5header {
@@ -52,7 +55,6 @@ h1 {
   padding: 2px;
   font-size: 14px;
   border: none;
-
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
