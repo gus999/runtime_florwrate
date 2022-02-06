@@ -64,8 +64,8 @@
   left: 28%;
 }
 
-#velocity:focus{
-  float: top;
+#velocity:focus .inputs {
+  display: none;
 }
 
 .panel-group > div {
@@ -74,14 +74,13 @@
   left: 28%;
 }
 
-
 .runtime {
   position: relative;
   top: 0%;
   left: 25%;
 }
 
-.runtimey:focus{
+.runtimey:focus {
   float: top;
 }
 
