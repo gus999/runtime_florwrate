@@ -64,8 +64,9 @@
   left: 28%;
 }
 
-#velocity:focus .velocity {
-  z-index:3;
+#velocity:focus .panel-group {
+  display: none;
+  z-index:-3;
 }
 
 .panel-group > div {
