@@ -64,7 +64,7 @@
   left: 28%;
 }
 
-#velocity:focus {
+#velocity:focus .velocity {
   z-index:3;
 }
 
