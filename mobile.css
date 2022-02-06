@@ -64,16 +64,25 @@
   left: 28%;
 }
 
+.velocity:focus{
+  float: top;
+}
+
 .panel-group > div {
   position: absolute;
   top: 78%;
   left: 28%;
 }
 
+
 .runtime {
   position: relative;
   top: 0%;
   left: 25%;
+}
+
+.runtimey:focus{
+  float: top;
 }
 
 #backBtn {
