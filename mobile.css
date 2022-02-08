@@ -64,10 +64,13 @@
   left: 28%;
 }
 
-#velocity:focus .panel-group {
+/* Vel inputs gets mess up on Cellphone screen */
+/* .velocity:focus .panel-group {
   display: none;
   z-index:-3;
-}
+} */
+
+
 
 .panel-group > div {
   position: absolute;
